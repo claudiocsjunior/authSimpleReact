@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sistema de autenticação simples com react utilizando context api e hooks
 
 ## Available Scripts
 
